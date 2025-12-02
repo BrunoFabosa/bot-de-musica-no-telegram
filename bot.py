@@ -291,3 +291,5 @@ def receber_texto(mensagem):
         user_states[chat_id] = None 
 
 bot.infinity_polling(timeout=20, long_polling_timeout=10)
+
+# Integrantes do grupo: Bruno Fabosa dos Santos - Carlos Eduardo da Silva Oliveira - Alexandre dos Santos Junior #
